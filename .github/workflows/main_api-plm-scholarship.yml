@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'api-plm-scholarship'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5477F340CC45418387C87F1119CC6E1E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C7B684B109E44BDA06967F1810399EB }}
           package: .
